@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/FullMoonAge/static/css/main.cefddef0.chunk.css",
-    "main.js": "/FullMoonAge/static/js/main.eaae84d7.chunk.js",
-    "main.js.map": "/FullMoonAge/static/js/main.eaae84d7.chunk.js.map",
+    "main.js": "/FullMoonAge/static/js/main.7cd379fb.chunk.js",
+    "main.js.map": "/FullMoonAge/static/js/main.7cd379fb.chunk.js.map",
     "runtime-main.js": "/FullMoonAge/static/js/runtime-main.d80a371c.js",
     "runtime-main.js.map": "/FullMoonAge/static/js/runtime-main.d80a371c.js.map",
-    "static/js/2.e97ece5b.chunk.js": "/FullMoonAge/static/js/2.e97ece5b.chunk.js",
-    "static/js/2.e97ece5b.chunk.js.map": "/FullMoonAge/static/js/2.e97ece5b.chunk.js.map",
+    "static/js/2.55a57bbd.chunk.js": "/FullMoonAge/static/js/2.55a57bbd.chunk.js",
+    "static/js/2.55a57bbd.chunk.js.map": "/FullMoonAge/static/js/2.55a57bbd.chunk.js.map",
     "index.html": "/FullMoonAge/index.html",
-    "precache-manifest.cbedfa3867dee1390da6a65737b21231.js": "/FullMoonAge/precache-manifest.cbedfa3867dee1390da6a65737b21231.js",
+    "precache-manifest.838d70c1ffa9c93c988aa5925b437c4c.js": "/FullMoonAge/precache-manifest.838d70c1ffa9c93c988aa5925b437c4c.js",
     "service-worker.js": "/FullMoonAge/service-worker.js",
     "static/css/main.cefddef0.chunk.css.map": "/FullMoonAge/static/css/main.cefddef0.chunk.css.map",
-    "static/js/2.e97ece5b.chunk.js.LICENSE": "/FullMoonAge/static/js/2.e97ece5b.chunk.js.LICENSE"
+    "static/js/2.55a57bbd.chunk.js.LICENSE": "/FullMoonAge/static/js/2.55a57bbd.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d80a371c.js",
-    "static/js/2.e97ece5b.chunk.js",
+    "static/js/2.55a57bbd.chunk.js",
     "static/css/main.cefddef0.chunk.css",
-    "static/js/main.eaae84d7.chunk.js"
+    "static/js/main.7cd379fb.chunk.js"
   ]
 }
