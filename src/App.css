@@ -27,10 +27,10 @@ a{
   text-align: center;
   position: relative;
 
-  -webkit-animation: rotate 5s infinite; /* Safari 4+ */
-  -moz-animation:    rotate 5s infinite; /* Fx 5+ */
-  -o-animation:      rotate 5s infinite; /* Opera 12+ */
-  animation:         rotate 5s infinite; /* IE 10+, Fx 29+ */
+  -webkit-animation: rotate ease 8s infinite; /* Safari 4+ */
+  -moz-animation:    rotate ease 8s infinite; /* Fx 5+ */
+  -o-animation:      rotate ease 8s infinite; /* Opera 12+ */
+  animation:         rotate ease 8s infinite; /* IE 10+, Fx 29+ */
 }
 
 @-webkit-keyframes rotate {

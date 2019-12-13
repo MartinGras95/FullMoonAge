@@ -23,7 +23,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router>
+      <Router basename="/FullMoonAge">
         <div className="container">
           {/* Header */}
           <Header />
