@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FullMoonAge/precache-manifest.06d1a2fe71911bb4dc32cf21e0c29e15.js"
+  "/FullMoonAge/precache-manifest.a5118ecf92adb7df623f0de976c14815.js"
 );
 
 self.addEventListener('message', (event) => {
